@@ -14,12 +14,12 @@ public class Exemplo1 {
     }
 
     public static void main(String[] args) {
-        Exemplo1 obj = new Exemplo1("JavaTpoint");
+        Exemplo1 obj = new Exemplo1("JavaScript");
         System.out.println(obj.getName());
 
 
 // Aqui, podemos atualizar o nome usando o método setName.
-        obj.setName("Java Training");
+        obj.setName("Java");
         System.out.println(obj.getName());
     }
 
