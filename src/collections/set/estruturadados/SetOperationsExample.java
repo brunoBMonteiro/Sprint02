@@ -11,10 +11,10 @@ public class SetOperationsExample {
         Integer[] B = {33, 2, 83, 45, 3, 12, 55};
 
         Set<Integer> set1 = new HashSet<Integer>();
-        // convertendo matriz em lista e add elementos da matriz A na no conjunto B
+        // convertendo matriz em lista e add elementos da matriz A na no conjunto set1
         set1.addAll(Arrays.asList(A));
         Set<Integer> set2 = new HashSet<Integer>();
-        // convertendo matriz em lista e add elementos da matriz B no conjunto B
+        // convertendo matriz em lista e add elementos da matriz B no conjunto set2
         set2.addAll(Arrays.asList(B));
 
         //O método adicionará todos esses elementos ao union_data que não
@@ -44,5 +44,6 @@ public class SetOperationsExample {
         difference_data.removeAll(set2);
         System.out.print("Diferença de set1 and set2 is: ");
         System.out.println(difference_data);
+
     }
 }
