@@ -13,6 +13,7 @@ public class TestExampleList {
         list.add("Banana");
         list.add("Grapes");
 
+
         // indices
         list.add(2, "Coco");
 
