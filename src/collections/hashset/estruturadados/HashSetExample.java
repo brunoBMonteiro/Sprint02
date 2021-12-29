@@ -24,8 +24,6 @@ public class HashSetExample {
         // não permite elementos duplicados
         set.add("Five");
 
-
-
         Iterator<String> i = set.iterator();
 
         while(i.hasNext())
