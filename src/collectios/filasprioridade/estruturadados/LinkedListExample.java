@@ -17,6 +17,7 @@ public class LinkedListExample {
         queue.add(b2);
         queue.add(b3);
 
+
         System.out.println("Atravessando os elementos da fila:");
 
         //Traversing queue elements
@@ -26,6 +27,7 @@ public class LinkedListExample {
         queue.remove();
         System.out.println();
         System.out.println("Depois de remover um registro de livro:");
+
         for(Book b:queue){
             System.out.println(b.id+" "+b.name+" "+b.author+" "+b.publisher+" "+b.quantity);
         }

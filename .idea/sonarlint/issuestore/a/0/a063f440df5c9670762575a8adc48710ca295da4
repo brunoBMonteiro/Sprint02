@@ -1,0 +1,13 @@
+
+;
+java:S2129" Remove this "String" constructor(±Ü„¦ûÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(éÚĞË
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—ùı$
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—ùı$
+M	java:S106"9Replace this use of System.out or System.err by a logger.(—ùı$
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ
+@
+java:S2201"*The return value of "concat" must be used.(„ÒÙ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8¤ÍÑ‡à/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éÔÜŒüÿÿÿÿ8¸ªÔ‡à/

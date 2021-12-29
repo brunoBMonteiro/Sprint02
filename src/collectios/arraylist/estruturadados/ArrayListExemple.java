@@ -16,6 +16,10 @@ public class ArrayListExemple {
         // adicionando na posição 1
         arrayList.add(0, "D");
 
+        // Aceita elementos duplicados
+        arrayList.add("D");
+
+
         System.out.println(arrayList);
 
         // removendo pela posição do array

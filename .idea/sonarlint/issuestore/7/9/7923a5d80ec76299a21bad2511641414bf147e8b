@@ -1,0 +1,11 @@
+
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Êí‹Û
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‡Ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñ†ÚÓ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ8İ®¶âß/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢˜ğ‡8÷Æ¸âß/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ8ÓÆ¾âß/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Êí‹Û
