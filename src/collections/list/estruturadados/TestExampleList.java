@@ -12,6 +12,11 @@ public class TestExampleList {
         list.add("Apple");
         list.add("Banana");
         list.add("Grapes");
+
+        // indices
+        list.add(2, "Coco");
+
+        System.out.println(list);
         //Iterating the List element using for-each loop
         for(String fruit:list) {
             System.out.println(fruit);
