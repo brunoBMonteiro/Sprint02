@@ -16,11 +16,13 @@ public class Exemplo1 {
     public static void main(String[] args) {
         Exemplo1 obj = new Exemplo1("JavaScript");
         System.out.println(obj.getName());
+        System.out.println(obj.hashCode());
 
 
 // Aqui, podemos atualizar o nome usando o método setName.
         obj.setName("Java");
         System.out.println(obj.getName());
+        System.out.println(obj.hashCode());
     }
 
     // Métodos para modificar os valores dos campos

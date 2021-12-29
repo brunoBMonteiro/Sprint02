@@ -28,6 +28,7 @@ public class LinkedListExample {
         System.out.println();
         System.out.println("Depois de remover um registro de livro:");
 
+        //Atravessando os elementos
         for(Book b:queue){
             System.out.println(b.id+" "+b.name+" "+b.author+" "+b.publisher+" "+b.quantity);
         }

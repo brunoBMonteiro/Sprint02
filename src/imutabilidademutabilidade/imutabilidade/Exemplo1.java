@@ -10,15 +10,15 @@ public class Exemplo1 {
             System.out.println(str1.hashCode());
             System.out.println(str2.hashCode());
 
-            str2 = "monk";
+            //  Atribuindo novo valor para str2
+            str2 = "stuart";
             System.out.println(str2.hashCode());
-            // Se alterar o valor john que é do tipo String, vai mudar o local da memória
+            // Se alterar o valor stuart que é do tipo String, vai mudar o local da memória
             str2 = "john";
             System.out.println(str2.hashCode());
 
-
-            System.out.println("===================================");
-
+            System.out.println();
+            System.out.println("===============Example 2====================");
 
             String s = "Sachin";
             s.concat ( "Tendulkar" ); // método concat () concatena a string no final

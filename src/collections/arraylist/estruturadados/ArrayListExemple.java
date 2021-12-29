@@ -18,6 +18,7 @@ public class ArrayListExemple {
 
         // Aceita elementos duplicados
         arrayList.add("D");
+        arrayList.add(null);
 
 
         System.out.println(arrayList);
