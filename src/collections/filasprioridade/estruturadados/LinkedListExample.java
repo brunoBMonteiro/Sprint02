@@ -1,4 +1,4 @@
-package collectios.filasprioridade.estruturadados;
+package collections.filasprioridade.estruturadados;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

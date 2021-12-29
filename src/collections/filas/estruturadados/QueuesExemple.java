@@ -1,6 +1,5 @@
-package collectios.filas.estruturadados;
+package collections.filas.estruturadados;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 

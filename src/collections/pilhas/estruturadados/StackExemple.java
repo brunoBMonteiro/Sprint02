@@ -1,4 +1,4 @@
-package collectios.pilhas.estruturadados;
+package collections.pilhas.estruturadados;
 
 import java.util.Stack;
 

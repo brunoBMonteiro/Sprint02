@@ -1,4 +1,4 @@
-package collectios.arraylist.estruturadados;
+package collections.arraylist.estruturadados;
 
 import java.util.ArrayList;
 

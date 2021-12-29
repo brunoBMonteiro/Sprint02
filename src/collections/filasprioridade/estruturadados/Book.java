@@ -1,4 +1,4 @@
-package collectios.filasprioridade.estruturadados;
+package collections.filasprioridade.estruturadados;
 
 
 class Book implements Comparable<Book>{

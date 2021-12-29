@@ -1,21 +1,9 @@
-package collectios.linkedlist.estruturadados;
+package collections.linkedlist.estruturadados;
 
 import java.util.LinkedList;
 import java.util.List;
 
-public class Book {
-    int id;
-    String name,author;
-
-    public Book(int id, String name, String author) {
-        this.id = id;
-        this.name = name;
-        this.author = author;
-
-    }
-}
-
-class LinkedListExample {
+public class LinkedListExample {
     public static void main(String[] args) {
 
         //Creating list of Books

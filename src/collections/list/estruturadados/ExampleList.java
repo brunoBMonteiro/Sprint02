@@ -1,4 +1,4 @@
-package collectios.list.estruturadados;
+package collections.list.estruturadados;
 
 import java.awt.print.Book;
 import java.util.ArrayList;
