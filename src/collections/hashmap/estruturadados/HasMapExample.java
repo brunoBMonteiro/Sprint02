@@ -12,6 +12,7 @@ public class HasMapExample {
 
         System.out.println(map);
 
+
         /*
         Vamos ver em qual índice a Chave, o par de valor
         será salvo no HashMap. Quando chamamos o método put(),
