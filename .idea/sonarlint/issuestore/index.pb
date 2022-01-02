@@ -33,3 +33,5 @@ i
 9src/collections/hashmap/estruturadados/HasMapExample.java,a\7\a7fc2d8d89ed3930bf53705a9bb517876d50ea2c
 u
 Esrc/collections/linkedhashmap/estruturadados/LinkedHasMapExample.java,d\a\da16d46772d76b1213aa059ad6cd29c722aecce7
+j
+:src/Collections/treeset/estruturadados/TreeSetExample.java,3\c\3cf687727cb091f10de4d6cbdca61484d20f5f2b
