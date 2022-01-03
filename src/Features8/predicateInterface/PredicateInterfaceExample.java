@@ -1,4 +1,4 @@
-package Features8.PredicateInterface;
+package Features8.predicateInterface;
 
 import java.util.function.Predicate;
 
