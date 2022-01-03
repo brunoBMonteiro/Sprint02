@@ -1,4 +1,4 @@
-package Features8.methodReference;
+package Features8.methodReferenceStaticMethod;
 
 public class MethodReferenceExample {
 
