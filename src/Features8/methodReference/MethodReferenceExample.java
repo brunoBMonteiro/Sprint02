@@ -11,6 +11,7 @@ public class MethodReferenceExample {
     }
 
     public static void main(String[] args) {
+
         // Refere-se ao método estático
         Sayable sayable = MethodReferenceExample::saySomething;
         // Chamando o método interface
