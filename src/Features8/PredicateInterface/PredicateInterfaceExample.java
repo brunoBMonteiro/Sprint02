@@ -12,9 +12,11 @@ public class PredicateInterfaceExample {
     }
 
     public static void main(String[] args){
-        // Using Predicate interface
+        // Usando a interface predicada
+        // expressões que referenciam métodos ::
+        // Adicionado no java 8
         Predicate<Integer> predicate =  PredicateInterfaceExample::checkAge;
-        // Calling Predicate method
+        // chamando método predicado
         boolean result = predicate.test(25);
         System.out.println(result);
     }
