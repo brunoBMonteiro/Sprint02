@@ -1,4 +1,4 @@
-package LambdaExpressions.singleParameter;
+package Features8.LambdaExpressions.singleParameter;
 
 public class LambdaExpressionExample {
     public static void main(String[] args) {

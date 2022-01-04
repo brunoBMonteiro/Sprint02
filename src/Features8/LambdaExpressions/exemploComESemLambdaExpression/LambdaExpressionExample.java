@@ -1,4 +1,4 @@
-package LambdaExpressions.exemploComESemLambdaExpression;
+package Features8.LambdaExpressions.exemploComESemLambdaExpression;
 
 public class LambdaExpressionExample {
     public static void main(String[] args) {

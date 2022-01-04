@@ -1,4 +1,4 @@
-package LambdaExpressions.multipleParameter;
+package Features8.LambdaExpressions.multipleParameter;
 
 public class LambdaExpressionExample {
     public static void main(String[] args) {

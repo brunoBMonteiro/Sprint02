@@ -1,4 +1,4 @@
-package LambdaExpressions.exemploComESemLambdaExpression;
+package Features8.LambdaExpressions.exemploComESemLambdaExpression;
 
 public interface Drawable {
     // método desenhar

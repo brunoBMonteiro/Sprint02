@@ -1,4 +1,4 @@
-package LambdaExpressions.lambdaNoParameter;
+package Features8.LambdaExpressions.lambdaNoParameter;
 
 public class LambdaExpressionExampleNoParameter {
     public static void main(String[] args) {
