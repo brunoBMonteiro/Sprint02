@@ -1,5 +1,5 @@
 package Features11.Java11StringAPIUpdates;
-
+// Novos métodos String
 public class ApiUpdatesExample {
     public static void main(String[] args) {
         System.out.println("==========String#repeat=========");
