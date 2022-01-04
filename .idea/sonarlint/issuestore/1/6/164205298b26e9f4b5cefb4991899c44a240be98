@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³Œã¶ûÿÿÿÿ8ïÕÄ—â/
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ë èÔ8òÕÄ—â/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëëğ8õÕÄ—â/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğÊÄìùÿÿÿÿ

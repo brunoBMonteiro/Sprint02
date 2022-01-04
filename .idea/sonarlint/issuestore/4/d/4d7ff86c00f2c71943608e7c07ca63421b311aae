@@ -1,0 +1,6 @@
+
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¼­Îóþÿÿÿÿ8Õ‹Ú–â/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¯šÕ‚ùÿÿÿÿ8Ù‹Ú–â/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Ð»º
