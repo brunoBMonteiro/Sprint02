@@ -24,9 +24,19 @@ public class ApiUpdatesExample {
 
         System.out.println("==========String#isBlank=========");
         //verificar se uma instância string está vazia ou contém espaço branco
-        String nuBank = "  ";
+        String nuBank = " ";
         System.out.println(nuBank.isBlank());  // true
+        System.out.println();
 
+        System.out.println("==========String#isEmpty=========");
+        System.out.println(nuBank.isEmpty());  // false
+        System.out.println();
+
+        System.out.println("==========String#lines=========");
+        //Usando este novo método, podemos facilmente dividir uma instância
+        // string em um Fluxo<String> de linhas separadas:
+        nuBank = "Tem dinheiro\nna conta";
+        nuBank.lines().forEach(System.out::println);
     }
 
 }
