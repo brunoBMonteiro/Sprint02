@@ -13,10 +13,10 @@ public class Product {
     }
 
     public String toString() {
-        return "Product{" +
+        return "Product list = {" +
                 "id=" + id +
-                ", name='" + name + '\'' +
-                ", price=" + price +
+                "name='" + name +
+                "price=" + price +
                 '}' + '\n';
 
     }
