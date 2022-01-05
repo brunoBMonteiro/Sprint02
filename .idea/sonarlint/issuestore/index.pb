@@ -83,7 +83,3 @@ o
 ?src/Features8/predicateInterface/PredicateInterfaceExample.java,8\2\82df5afb51e6bdb5c961445c15c4e881865800aa
 l
 <src/Features11/Java11StringAPIUpdates/ApiUpdatesExample.java,c\5\c5bf9736352202f31abf9b4f91c768507ed30aa9
-a
-1src/Features8/streamFilter/JavaStreamExample.java,1\7\17afe9bad5ca52d16a82369c262078d243caab60
-W
-'src/Features8/streamFilter/Product.java,9\d\9dcee01b1fa32f9268d6c6ff682760c742666e54
