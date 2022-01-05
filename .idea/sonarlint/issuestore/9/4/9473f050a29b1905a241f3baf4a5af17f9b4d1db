@@ -1,0 +1,9 @@
+
+
+java:S4276	"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ışœğùÿÿÿÿ8¡Ü²…â/
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Float>'(°…ı¼úÿÿÿÿ8¤Ü²…â/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ8Ä²…â/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÓ¨¨8Ô²…â/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…ÚÇˆıÿÿÿÿ8Õ²…â/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–¤±ã
