@@ -11,6 +11,8 @@ public class ApiUpdatesExample {
             System.out.println("*".repeat(s));
             s+=2;
         }
+        String name = "Java devil edition";
+        System.out.println(name.repeat(2));
         System.out.println();
 
         System.out.println("==========String#strip=========");

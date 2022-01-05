@@ -62,8 +62,6 @@ Nsrc/Features8/LambdaExpressions/multipleParameter/LambdaExpressionExample.java
 n
 >src/Features8/LambdaExpressions/multipleParameter/Addable.java,d\9\d9b0ad67f2441e6ba84490502eec6c4f72d2f6a8
 l
-<src/Features11/Java11StringAPIUpdates/ApiUpdatesExample.java,c\5\c5bf9736352202f31abf9b4f91c768507ed30aa9
-l
 <src/Collections/set/estruturadados/SetOperationsExample.java,9\c\9c8349a051105cb8abc0fedca1aef6bdab214f09
 i
 9src/Collections/map/estruturadados/MapGenericExample.java,c\b\cb560868e4afb36688207a8a79939cae7430cb06
