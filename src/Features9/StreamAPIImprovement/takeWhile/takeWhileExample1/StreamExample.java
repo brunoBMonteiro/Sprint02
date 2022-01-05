@@ -12,6 +12,7 @@ public class StreamExample {
         List<Integer> list
                 // Se retirar o 1 ele retorna e 2 e para novamente
                 = Stream.of(1,2,3,4,5,6,7,8,9,10)
+                // Pegar enquanto
                 .takeWhile(i -> (i % 2 == 0)).collect(Collectors.toList());
         System.out.println(list);
     }
