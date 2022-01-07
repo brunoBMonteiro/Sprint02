@@ -1,11 +1,0 @@
-
-T
-java:S1611"2Remove the parentheses around the "name" parameter(üóÎşÿÿÿÿ8éıò–â/
-u
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(üóÎşÿÿÿÿ8éıò–â/
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(†îìáÿÿÿÿÿ8éıò–â/
-p
-java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(œ”ÏÖ8éıò–â/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö±Ãşÿÿÿÿ8òıò–â/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦øë·üÿÿÿÿ
